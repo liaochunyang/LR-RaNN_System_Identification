@@ -36,7 +36,7 @@ Contains numerical experiments for several ODEs and code to generate datasets, i
 <p align="center">
   <img src="./data/RF_Auto.png" width="33%">
   <img src="./data/RF_Non.png" width="33%">
-  <img src="./data/RF_Osci" width="33%">
+  <img src="./data/RF_Osci.png" width="33%">
 </p>
 
 ## Related Work:
