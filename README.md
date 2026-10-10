@@ -39,6 +39,10 @@ Contains numerical experiments for several ODEs and code to generate datasets, i
   <img src="./data/RF_Osci.png" width="33%">
 </p>
 
+<p align="center">
+  <strong>Figure 1.</strong> Random Features Method for three dynamical systems. From left to right: Autonomous ODE, Non-Autonomous ODE, and Van der Pol Oscillator.
+</p>
+
 ## Related Work:
 
 - **[1]** Elisa Negrini, Giovanna Citti, Luca Capogna, *System identification through Lipschitz regularized deep neural networks*, 2021. <a href="https://github.com/enegrini/System-identification-through-Lipschitz-regularized-neural-networks" target="_blank">(code)</a>
